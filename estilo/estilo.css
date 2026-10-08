@@ -6,6 +6,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #262B2F;
+    position: relative;
 }
 
 header {
@@ -27,7 +28,6 @@ main {
     height: 500px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
-    margin-bottom: 70px;
 }
 
 h2 {
@@ -60,4 +60,7 @@ footer {
     background-color: #AD8E4D;
     height: 45px;
     align-content: center;
+    position: absolute;
+    bottom: -113px;
+    width: 100%;
 }
