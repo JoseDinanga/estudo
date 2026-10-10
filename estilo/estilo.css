@@ -61,6 +61,6 @@ footer {
     height: 45px;
     align-content: center;
     position: absolute;
-    bottom: auto;
+    align-items: end;
     width: 100%;
 }
